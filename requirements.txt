@@ -1,0 +1,11 @@
+selenium
+pyautogui
+PyPDF2
+PyMuPDF
+fitz
+pandas
+numpy
+openpyxl
+tk
+pdfkit
+
