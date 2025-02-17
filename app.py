@@ -56,7 +56,7 @@ driver.maximize_window()
 time.sleep(1)
 
 driver.find_element(By.XPATH, '//*[@id="ctl03_tbUser"]').send_keys("john.tan@sh-cogent.com.sg")
-driver.find_element(By.XPATH, '//*[@id="ctl03_tbPassword"]').send_keys("Esker3838")
+driver.find_element(By.XPATH, '//*[@id="ctl03_tbPassword"]').send_keys("PASSWORD")
 driver.find_element(By.XPATH, '//*[@id="ctl03_btnSubmitLogin"]').click()
 time.sleep(5) # login
 
