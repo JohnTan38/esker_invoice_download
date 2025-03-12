@@ -22,7 +22,7 @@ import tkinter as tk
 
 def get_username():
     root = tk.Tk()
-    root.title("Esker Invoice Download")
+    root.title("Invoice Download")
     root.geometry("350x200")
 
     name_var = tk.StringVar()
